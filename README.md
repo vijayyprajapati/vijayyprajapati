@@ -27,5 +27,5 @@
 
 
 
-<p>&nbsp;<img align="center" margin-top="50px" width="400px" src="https://github-readme-stats.vercel.app/api?username=vijayyprajapati&show_icons=true&locale=en" alt="vijayyprajapati" /></p>
+<p width="500px">&nbsp; <img align="center" margin-top="50px" width="400px" src="https://github-readme-stats.vercel.app/api?username=vijayyprajapati&show_icons=true&locale=en" alt="vijayyprajapati" /></p>
 

@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **vijayprajapativijay2@gmil.com**
-"<img align="right" width="400px" height="400px" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />" 
+"<img align="right" width="450px" height="450px" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />" 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vijayyprajapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vijayyprajapati" height="30" width="40" /></a>
@@ -26,6 +26,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vijayyprajapati&show_icons=true&locale=en&layout=compact" alt="vijayyprajapati" /></p>
 
-
-<p>&nbsp;<img align="center" width="400px" margin-top="20px" src="https://github-readme-stats.vercel.app/api?username=vijayyprajapati&show_icons=true&locale=en" alt="vijayyprajapati" /></p>
+<br>
+<p>&nbsp;<img align="center" margin-top="50px" width="400px" src="https://github-readme-stats.vercel.app/api?username=vijayyprajapati&show_icons=true&locale=en" alt="vijayyprajapati" /></p>
 

@@ -5,11 +5,11 @@
 <h3 align="center">A passionate Web developer and Competitive Programmer from India ✌</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijayyprajapati&label=Profile%20views&color=0e75b6&style=flat" alt="vijayyprajapati" /> </p>
-
+"<img align="right" width="400px" height="400px" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />" 
 - 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **vijayprajapativijay2@gmil.com**
-"<img align="right" width="450px" height="450px" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />" 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vijayyprajapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vijayyprajapati" height="30" width="40" /></a>

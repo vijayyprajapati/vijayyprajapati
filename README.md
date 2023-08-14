@@ -5,7 +5,7 @@
 <h3 align="center">A passionate Web developer and Competitive Programmer from India ✌</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijayyprajapati&label=Profile%20views&color=0e75b6&style=flat" alt="vijayyprajapati" /> </p>
-"<img align="right" width="400px" height="440px" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />" 
+<img align="right" width="400px" height="440px" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
 - 📫 How to reach me **vijayprajapativijay2@gmil.com**
 

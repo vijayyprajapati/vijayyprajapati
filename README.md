@@ -6,7 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijayyprajapati&label=Profile%20views&color=0e75b6&style=flat" alt="vijayyprajapati" /> </p>
 "<img align="right" width="400px" height="440px" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />" 
-- 🌱 I’m currently learning Javascript 😅
 
 - 📫 How to reach me **vijayprajapativijay2@gmil.com**
 
